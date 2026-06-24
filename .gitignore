@@ -1,0 +1,32 @@
+# Maven Build target
+target/
+
+# Log files
+*.log
+logs/
+
+# IDE specific files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Crash dumps
+*.sconsign
+*.db
+
+# Temporary/Cache files
+.gradle/
+build/
+.settings/
+.recommenders/
+bin/

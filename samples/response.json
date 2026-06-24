@@ -1,0 +1,12 @@
+{
+  "is_success": true,
+  "user_id": "harshit_nijhawan_24062026",
+  "email": "harshit0876.be23@chitkara.edu.in",
+  "roll_number": "2310990876",
+  "odd_numbers": ["1"],
+  "even_numbers": ["334", "4"],
+  "alphabets": ["A", "R"],
+  "special_characters": ["$"],
+  "sum": "339",
+  "concat_string": "Ra"
+}
